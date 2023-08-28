@@ -1,0 +1,34 @@
+img{
+    width: 250px;
+    height: 200px;
+    margin:30px ;
+    border: 2px solid black ;
+
+
+}
+.dots{
+    background-image: url("../weekThree/Background_76-34033.avif");
+}
+.content{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    
+
+
+}
+
+h1{
+    margin: auto;
+    font-family:monospace;
+    font-weight:lighter;
+    font-size: 30px;
+    border:2px solid black;
+    width: 50%;
+    
+    
+}
+
+body{
+    background-image: url("../weekThree/Background_76-34033.avif");
+
+}
